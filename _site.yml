@@ -1,0 +1,21 @@
+name: "UTeM Robotics Centre"
+output_dir: "."
+navbar:
+  title: "UTeM Robotics Centre"
+  left:
+    - text: "About Us"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Researchers"
+      href: researchers.html
+    - text: "Graduate Studies"
+      href: graduatestudies.html
+    - text: "Training"
+      href: training.html
+    - text: "News and Event"
+      href: newsevent.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+

@@ -1,0 +1,10 @@
+---
+  title: "Welcome to UTeM Robotics Centre's Website"
+---
+  
+>### The research in robotics has been started about half a century ago, and the advancement in this research area is still growing day by day. From manipulators with gigantic brains to complex mechatronics systems, robots are presenting themselves in many corners' of human life such as autonomous transporters, drones, vacuum robots and even as friends. 
+
+>### The robotic applications are motivated from strong backup of research activities. Therefore, UTeM Robotics Centre aims to pioneering the robotics research with respect to Malaysia's arena which directly supporting the robotic applications for Small and Medium Industries (SMIs).
+
+
+>### The URC Team
