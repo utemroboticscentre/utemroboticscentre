@@ -1,5 +1,7 @@
 name: "UTeM Robotics Centre"
-output_dir: "."
+output:
+  html_document:
+
 navbar:
   title: "UTeM Robotics Centre"
   left:
@@ -8,6 +10,13 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Researchers"
+      menu: 
+          - text: "Assoc. Prof. Dr. Ahmad Yusairi Bani Hashim"
+            href: researcher1.html
+          - text: "Dr. Shariman Abdullah"
+            href: researcher2.html
+          - text: "Dr. Mohd Nazrin Muhammad"
+            href: researcher3.html
       href: researchers.html
     - text: "Graduate Studies"
       href: graduatestudies.html
@@ -18,4 +27,4 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
-
+output_dir: "."

@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: C:/Users/MOHDNAZRINBINMUHAMMA/Syncplicity Folders/R/HTML/utemroboticscentre.github.io/docs
+WebsitePath: C:/Users/MOHDNAZRINBINMUHAMMA/Syncplicity Folders/R/HTML/utemroboticscentre.github.io/web

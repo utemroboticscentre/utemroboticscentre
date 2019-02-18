@@ -1,0 +1,38 @@
+---
+output: html_document
+---
+<br>
+<br>
+
+<center>
+# Dr. Mohd Nazrin Muhammad
+<br>
+<img src="figures/nazrin.png" width="200px">
+<br>
+</center>
+<br>
+<br>
+
+## {.tabset .tabset-fade .tabset-pills}
+### Profiles
+
+
+
+### Selected Publications
+
+
+
+### Teaching
+<center>
+Mechatronics
+<br>
+Principles of Electric & Electronics
+<br>
+Computer Programming
+</center>
+### Supervision
+
+### Contact
+<center>
+nazrin@utem.edu.my
+</center>

@@ -1,9 +1,81 @@
 ---
-title: "Researchers"
-author: "Nazrin"
-date: "13 February 2019"
-output: html_document
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
 ---
->### Assoc. Prof. Dr. Ahmad Yusairi
->### Dr. Shariman Abdullah
->### Dr. Mohd Nazrin Muhammad
+
+
+# Assoc. Prof. Dr. Ahmad Yusairi Bani Hashim {.tabset .tabset-fade .tabset-pills}
+
+## Profiles
+
+<div id="bg">
+  <img src="figures/ahmadyusairi.png" width="200px" alt="">
+</div>  
+
+
+ResearcherID: D-1184-2012
+
+Ahmad Yusairi Bani Hashim is an Associate Professor in the Faculty of Manufacturing Engineering, Universiti Teknikal Malaysia Melaka, Malaysia. He received his Ph.D. from Universiti Malaya, MS from Universiti Putra Malaysia, BS from the Pennsylvania State University. He has been in the teaching profession since 1997. He is now working on rehabilitation robotics and artificial intelligence.
+
+## Selected Publications
+
+Hashim, A. Y. B. (2019). Using worn out insole to express human foot. International Journal of Biomedical Engineering and Technology, 29(1), 84-99. https://doi.org/10.1504/IJBET.2019.096882
+
+Ramdan, N. S. A., Hashim, A. B., Kamat, S. R., & Asmai, S. A. (2016). Detecting Human Movement by Image Histogram to Monitor Body Discomfort. International Journal of Imaging and Robotics, 16(2), 45-57.
+
+Hashim, A. B., Maslan, M. N., Izamshah, R., & Mohamad, I. S. (2014). Delivering key signals to the machine: seeking the electric signal that muscles emanate. In Journal of Physics: Conference Series (Vol. 546, No. 1, p. 012020). IOP Publishing. doi:10.1088/1742-6596/546/1/012020
+
+A.Y. Bani Hashim, N.A. Abu Osman, W.A.B. Wan Abas, L. Abdul Latif. (2013). Approximating the relationship among the degree of the reaction forces and the nodes on footprint during a stance phase, Applied Mathematical Modelling, Volume 37, Issues 1–2, 258-264. https://doi.org/10.1016/j.apm.2011.11.089
+
+Hashim, A. Y., Osman, N. A., Abas, W. A., & Latif, L. A. (2011). Evaluation of foot kinematic structure by the order of bones’ vertices and joints’ edges. International Journal of Modelling and Simulation, 31(2), 101-111. https://www.tandfonline.com/doi/abs/10.2316/Journal.205.2011.2.205-5239
+
+## Teaching
+Industrial Robotics, Intelligent Systems
+
+## Supervision
+Currently supervises 2 Ph.D. candidates, co-supervises 1 Ph.D. candidate.
+
+
+# Dr. Shariman Abdullah {.tabset}
+
+
+## Profiles
+
+<div id="bg">
+  <img src="figures/shariman.png" width="200px" alt="">
+</div>  
+
+Shariman Abdullah is currently serving as a lecturer at the Fakulti Kejuruteraan Pembuatan in Universiti Teknikal Malaysia Melaka, Malaysia since 2002. He graduated with bachelors in mechanical engineering from Tokushima University, Japan in 1999. He then obtains his masters degree in Mechatronic at Loughborough University in 2003 and completed his PhD from Universiti Teknologi Malaysia in 2017. His research area is mainly related with control system of mobile manipulator. A mobile manipulator is a combination of a mobile platform and an arm or manipulator mounted onto it. The control system for the mobile manipulator require precise and high level of torque control system therefore a torque control technique identified as Active Force Control was implemented. The mobile manipulator was design and fabricated based on mechatronics approach using various type of microcontroller, actuators and sensors. His research also involves virtual system design using a technique commonly known as co-simulation. The co-simulation technique allows researchers to design, test and built a virtual mechatronics system in a virtual physical environment which help to cut design mistake, shorten development time and allow easier test and analysis being performed
+
+## Selected Publications
+
+M. Mailah, et al., "Tracking Performance on Feedfoward Model Base Active Force Control of Mobile Manipulator using Matlab and Adams " in Proceedings of the 13th International Conference on Robotics, Control and Manufacturing Technology, Kuala Lumpur, 2013, pp. 83-88.
+
+S. Abdullah, et al., "Tracking Performance of a 3D Articulated Mobile Manipulator Using Active Force Control " in Proceedings of the 1st International Conference on Systems, Control,Power, Robotics, Singapore, 2012.
+
+S. Abdullah, et al., "AFC Motor Control using Low Cost and Mobile Data Acquisition System with dsPIC30 Microcontroller and Lubin Kerhuel Blockset for MATLAB Simulink," Applied Mechanics and Materials, vol. 465, pp. 806-810, 2013.
+
+S. Abdullah, et al., "Feedforward Model Based Active Force Control of Mobile Manipulator using MATLAB and MD Adams," WSEAS Transactions on Systems, 2013.
+
+S. Abdullah, et al., "An Experimental Skid Steering Mobile Platform using Active Force Control," in International Conference on Robotics, Control And Manufacturing Technology (ROCOM '14), 2014, pp. 199-204
+
+## Teaching
+
+Mechatronics, Industrial Automation, Control Systems
+
+
+# Dr. Mohd Nazrin Muhammad {.tabset}
+
+## Profiles
+<div id="bg">
+  <img src="figures/nazrin.png" width="200px" alt="">
+</div>  
+
+
+## Selected Publications
+
+## Teaching
+---
